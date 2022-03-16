@@ -1,0 +1,240 @@
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: ((['c'],), {})
+Результат: ['c']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.703610
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: (([['c']],), {})
+Результат: ['c']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: ((['b', ['c']],), {})
+Результат: ['b', 'c']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: ((['e'],), {})
+Результат: ['e']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([['e']],), {})
+Результат: ['e']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: ((['d', ['e']],), {})
+Результат: ['d', 'e']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: ((['f'],), {})
+Результат: ['f']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([['d', ['e']], 'f'],), {})
+Результат: ['d', 'e', 'f']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([None],), {})
+Результат: [None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([2, None],), {})
+Результат: [2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([1, 2, None],), {})
+Результат: [1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([[1, 2, None]],), {})
+Результат: [1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.754718
+Имя функции: flatten
+Аргументы: (([[['d', ['e']], 'f'], [1, 2, None]],), {})
+Результат: ['d', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: (([['b', ['c']], [['d', ['e']], 'f'], [1, 2, None]],), {})
+Результат: ['b', 'c', 'd', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: ((['a', ['b', ['c']], [['d', ['e']], 'f'], [1, 2, None]],), {})
+Результат: ['a', 'b', 'c', 'd', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.623377
+Имя функции: flatten
+Аргументы: (([['a', ['b', ['c']], [['d', ['e']], 'f'], [1, 2, None]]],), {})
+Результат: ['a', 'b', 'c', 'd', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: ((['c'],), {})
+Результат: ['c']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: (([['c']],), {})
+Результат: ['c']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: ((['b', ['c']],), {})
+Результат: ['b', 'c']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: ((['e'],), {})
+Результат: ['e']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([['e']],), {})
+Результат: ['e']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: ((['d', ['e']],), {})
+Результат: ['d', 'e']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: ((['f'],), {})
+Результат: ['f']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([['d', ['e']], 'f'],), {})
+Результат: ['d', 'e', 'f']
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([None],), {})
+Результат: [None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([2, None],), {})
+Результат: [2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([1, 2, None],), {})
+Результат: [1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([[1, 2, None]],), {})
+Результат: [1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.762707
+Имя функции: flatten
+Аргументы: (([[['d', ['e']], 'f'], [1, 2, None]],), {})
+Результат: ['d', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: (([['b', ['c']], [['d', ['e']], 'f'], [1, 2, None]],), {})
+Результат: ['b', 'c', 'd', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: ((['a', ['b', ['c']], [['d', ['e']], 'f'], [1, 2, None]],), {})
+Результат: ['a', 'b', 'c', 'd', 'e', 'f', 1, 2, None]
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.766701
+Имя функции: flatten
+Аргументы: (([],), {})
+Результат: []
+Путь: C:\Users\Серега\PycharmProjects\decorators2\decorator_2.txt
+Дата/время: 2022-03-16 18:53:38.758712
+Имя функции: flatten
+Аргументы: (([['a', ['b', ['c']], [['d', ['e']], 'f'], [1, 2, None]]],), {})
+Результат: ['a', 'b', 'c', 'd', 'e', 'f', 1, 2, None]
